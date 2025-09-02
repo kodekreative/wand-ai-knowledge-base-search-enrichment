@@ -1,0 +1,1 @@
+Semantic search goes beyond keyword matching by understanding the intent and context of a query. It uses natural language processing and vector embeddings to find relevant information based on meaning rather than exact word matches. This approach provides more accurate and context-aware search results.
