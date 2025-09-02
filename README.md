@@ -17,9 +17,15 @@ This project implements a backend for document ingestion, semantic search, and Q
 
 ## Trade-offs
 
-- Local tools (no cloud) for 24h speed; basic DB (not scalable); no advanced Q&A model; no security (auth/API keys) implemented; used free Groq API with Llama instead of paid GPT-3.5 (may have lower quality or rate limits); only TXT files supported (skipped PDF/other formats for time).
+- Local tools (no cloud) for 24h speed
+- Basic DB (not scalable)
+- No advanced Q&A model
+- No security (auth/API keys) implemented
+- Used free Groq API with Llama instead of paid GPT-3.5 (may have lower quality or rate limits)
+- Only TXT files supported (skipped PDF/other formats for time)
 
 ## Loom Demo
+
 - Watch the demo video: [Loom Demo](https://www.loom.com/share/595213f494674572b04e37196c69e764?sid=9ca7ff98-5060-4c6c-a3b9-47ece11b1bd5)
 
 ## How to Run
