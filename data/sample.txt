@@ -1,0 +1,5 @@
+This is a sample document for the knowledge base.
+It contains information about AI and machine learning.
+Semantic search allows finding relevant content based on meaning.
+Vector embeddings represent text in numerical form.
+FAISS is a library for efficient similarity search.

@@ -1,0 +1,1 @@
+Vector embeddings are numerical representations of text, images, or other data in a high-dimensional space. They capture semantic relationships between items, allowing for efficient similarity calculations. In knowledge bases, embeddings enable fast retrieval of relevant documents through techniques like cosine similarity.

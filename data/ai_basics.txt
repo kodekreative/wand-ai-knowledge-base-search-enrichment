@@ -1,0 +1,1 @@
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines capable of intelligent behavior. It encompasses various subfields like machine learning, natural language processing, and computer vision. AI systems can learn from data, recognize patterns, and make decisions with minimal human intervention.
